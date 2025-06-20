@@ -1,13 +1,25 @@
+# Interface
 streamlit
+
+# Leitura de PDFs
 PyPDF2
 PyMuPDF
+
+# Framework LLM
 langchain
 langchain-community
 langchain-groq
-faiss-cpu
+
+# Embeddings e vetores
 sentence-transformers
 transformers
+faiss-cpu
+
+# Manipulação de dados
 pandas
 numpy
 scikit-learn
 pyyaml
+
+# Outros úteis (evita erros de runtime no Streamlit)
+tqdm
