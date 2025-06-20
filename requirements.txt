@@ -1,0 +1,13 @@
+streamlit
+PyPDF2
+PyMuPDF
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+transformers
+pandas
+numpy
+scikit-learn
+pyyaml
