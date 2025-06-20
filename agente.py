@@ -3,7 +3,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain.docstore.document import Document
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 
 import os, yaml, fitz
 

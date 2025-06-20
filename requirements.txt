@@ -23,3 +23,4 @@ pyyaml
 
 # Outros úteis (evita erros de runtime no Streamlit)
 tqdm
+
